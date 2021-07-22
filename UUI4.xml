@@ -3,14 +3,11 @@
   <channel>
     <title>UUI4 Design Library</title>
     <description>Sketch Library for EPAM Digital Platform Products</description>
-    <image>
-      <url></url>
-      <title>UUI4</title>
-    </image>
     <generator>Sketch</generator>
     <item>
       <title>UUI4</title>
-      <pubDate>Thu, 22 Jul 2021 16:45:00 +0000</pubDate>
+      <pubDate>22 Jul 2021 17:00:00 GMT</pubDate>
+      <link>http://uui.epam.com/</link>
       <enclosure url="https://github.com/yaroslav-zonov/UUIDesign/raw/main/UUI4.sketch" type="application/octet-stream" sparkle:version="1.2.4"/>
     </item>
   </channel>
