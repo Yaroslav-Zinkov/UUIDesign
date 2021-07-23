@@ -3,12 +3,15 @@
   <channel>
     <title>UUI3 Dark</title>
     <description>Sketch Library for EPAM Digital Platform Products</description>
+    <image>
+      <url></url>
+      <title>UUI3 Dark</title>
+    </image>
     <generator>Sketch</generator>
     <item>
       <title>UUI3 Dark</title>
-      <pubDate>15 Jun 2021 19:47:00 GMT</pubDate>
-      <link>http://uui.epam.com/</link>
-      <enclosure url="https://www.dropbox.com/s/2xrw4k245nickee/UUI3%5BDark%5D.sketch?dl=1" type="application/octet-stream" sparkle:version="1.4.1"/>
+      <pubDate>Fri, 23 Jul 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/yaroslav-zonov/UUIDesign/blob/main/UUI%203.0/Dark/UUI3%5BDark%5D.sketch?raw=true" type="application/octet-stream" sparkle:version="1.4.2"/>
     </item>
   </channel>
 </rss>
