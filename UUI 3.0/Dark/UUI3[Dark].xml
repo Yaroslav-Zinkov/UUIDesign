@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>UUI3 Dark</title>
+    <description>Sketch Library for EPAM Digital Platform Products</description>
+    <generator>Sketch</generator>
+    <item>
+      <title>UUI3 Dark</title>
+      <pubDate>15 Jun 2021 19:47:00 GMT</pubDate>
+      <link>http://uui.epam.com/</link>
+      <enclosure url="https://www.dropbox.com/s/2xrw4k245nickee/UUI3%5BDark%5D.sketch?dl=1" type="application/octet-stream" sparkle:version="1.4.1"/>
+    </item>
+  </channel>
+</rss>
