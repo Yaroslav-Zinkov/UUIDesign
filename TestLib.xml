@@ -11,7 +11,7 @@
     <item>
       <title>My Sketch Library</title>
       <pubDate>Fri, 23 Jul 2021 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/yaroslav-zonov/UUIDesign/blob/main/TestLib.sketch" type="application/octet-stream" sparkle:version="1"/>
+      <enclosure url="https://github.com/yaroslav-zonov/UUIDesign/blob/main/TestLib.sketch?raw=true" type="application/octet-stream" sparkle:version="1"/>
     </item>
   </channel>
 </rss>
