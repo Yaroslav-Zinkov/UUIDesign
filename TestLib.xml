@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>UUI4 Design Library</title>
+    <title>Git UUI4 Design Library</title>
     <description>Sketch Library for EPAM Digital Platform Products</description>
-    <image>
-      <url></url>
-      <title>UUI4</title>
-    </image>
     <generator>Sketch</generator>
     <item>
-      <title>UUI4</title>
-      <pubDate>Thu, 22 Jul 2021 16:15:00 +0000</pubDate>
-      <enclosure url="https://epam.sharepoint.com/sites/EPAMDesignPlatform-UUI4design-dev/Shared%20Documents/UUI4%20design-dev/UUI/UUI%204.0/Test/UUI4.sketch" type="application/octet-stream" sparkle:version="1.2.4"/>
+      <title>Git UUI4</title>
+      <pubDate>22 Jul 2021 17:00:00 GMT</pubDate>
+      <link>http://uui.epam.com/</link>
+      <enclosure url="https://github.com/yaroslav-zonov/UUIDesign/blob/main/UUI4.sketch" type="application/octet-stream" sparkle:version="1.2.4"/>
     </item>
   </channel>
 </rss>
